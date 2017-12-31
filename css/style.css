@@ -1,0 +1,63 @@
+
+body{
+    background: #464C53;
+}
+.matginminhaz{
+    margin-top: 30px;
+}
+.niche{
+        margin-top: 30px;
+       
+}
+.nounderline{
+    color: black;
+     font-size: 18px;
+     font-weight: 500;
+
+}
+.nounderline:hover{
+     text-decoration: none;
+     color: white;
+     font-size: 20px;
+    font-weight: 600;
+}
+.aslam{
+    color: white;
+    font-size: 45px;
+    font-weight: 600;
+}
+.aslamvai{
+     color: #F5600F;
+}
+.maruf{
+    color: #D3DFED;
+}
+.komola{
+    background: #F5600F;
+    color: white;
+    font-size: 15px;
+}
+
+.komola:hover{
+    background: #E14F00;
+    color: white;
+    font-size: 15px;
+}
+
+
+.transparent{
+    background: transparent;
+    border: 1px solid white;
+}
+.transparent:hover{
+    background: gray;
+     border: 1px solid black;
+}
+
+
+.komola2{
+    color: white;
+}
+.transparent2{
+    color: white;
+}
